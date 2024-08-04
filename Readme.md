@@ -1,8 +1,8 @@
-**Name:** JAINAM VORA
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT4PB3997
-**Domain:** Powewr BI
-**Duration:** Jult to August 2024
+**Name:** JAINAM VORA<br>
+**Company:** CODTECH IT SOLUTIONS<br>
+**ID:** CT4PB3997<br>
+**Domain:** Powewr BI<br>
+**Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
 ## Project: Sales Performance Dashboard
