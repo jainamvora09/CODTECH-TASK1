@@ -13,12 +13,12 @@ The objective of this project to analysis on a dataset containing sales performa
 ## Key Activities
 **Data Cleaning:** <br>
         - Removed unnecessary columns to streamline the dataset.<br>
-        - Converted null values to 0 to ensure accurate calculations and visualizations.<br>
+        - Converted null values to 0 to ensure accurate calculations and visualizations.<br><br><br>
 **Data Visualization:**<br>
          - Analyzed sales and profit data across different states and time periods.<br>
          - Implemented filters to allow users to view data by region (Central, East, South, West) and other categories.<br>
-        - Created year-over-year comparisons for monthly sales and profit to identify trends and patterns.<br>
+        - Created year-over-year comparisons for monthly sales and profit to identify trends and patterns.<br><br><br>
 **Dashboard Creation in Power BI:**<br>
         - Designed an interactive and user-friendly sales dashboard.<br>
         - Integrated various visualizations, including pie charts, line graphs, and maps, to display key metrics such as sales, quantity, profit, and average delivery time.<br>
-        - Categorized data by segment, payment mode, category, ship mode, and sub-category to provide detailed insights.<br>
+        - Categorized data by segment, payment mode, category, ship mode, and sub-category to provide detailed insights.<br><br><br>
