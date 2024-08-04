@@ -5,7 +5,7 @@
 **Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
-![Screenshot]("https://ibb.co/k0PXFZq")
+![Sales Dashboard](https://github.com/jainamvora09/CODTECH-TASK1/blob/main/sales_dashboard.png)
 
 ## Project: Sales Performance Dashboard
 
