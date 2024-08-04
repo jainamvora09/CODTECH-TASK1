@@ -5,7 +5,7 @@
 **Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
-![Sales Dashboard]("https://ibb.co/k0PXFZq")
+![Screenshot]("https://ibb.co/k0PXFZq")
 
 ## Project: Sales Performance Dashboard
 
