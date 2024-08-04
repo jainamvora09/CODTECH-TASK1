@@ -8,7 +8,7 @@
 ## Project: Sales Performance Dashboard
 
 ## Objective
-The objective of this project to analysis on a dataset containing sales performance data from 2019 - 2020. The aim is to uncover insights into trends, distribution, correlations, and outliers through visualization.
+To create an interactive and comprehensive sales dashboard in Power BI that provides valuable insights into sales performance, customer segments, regional distribution, and product categories.
 
 ## Key Activities
 **Data Cleaning:** <br>
