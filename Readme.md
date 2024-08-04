@@ -5,9 +5,8 @@
 **Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
-![Sales Dashboard](https://github.com/jainamvora09/CODTECH-TASK1/blob/main/sales_dashboard.png)
-
 ## Project: Sales Performance Dashboard
+![Sales Dashboard](https://github.com/jainamvora09/CODTECH-TASK1/blob/main/sales_dashboard.png)
 
 ## Objective
 To create an interactive and comprehensive sales dashboard in Power BI that provides valuable insights into sales performance, customer segments, regional distribution, and product categories.
