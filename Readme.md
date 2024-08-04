@@ -6,4 +6,3 @@
 
 ## Overview of the Project
 ## Project: Sales Performance Dashboard
-![Feature Image]("C:/Users/Jainam Vora/Downloads/sales_dashboard.png")
