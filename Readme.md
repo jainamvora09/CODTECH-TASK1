@@ -1,5 +1,5 @@
-**Name:** JAINAM VORA
-**Company:** CODTECH IT SOLUTIONS
+**Name:** JAINAM VORA,
+**Company:** CODTECH IT SOLUTIONS,
 **ID:** CT4PB3997
 **Domain:** Powewr BI
 **Duration:** Jult to August 2024
