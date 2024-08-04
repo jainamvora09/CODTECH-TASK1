@@ -1,7 +1,7 @@
 **Name:** JAINAM VORA<br>
 **Company:** CODTECH IT SOLUTIONS<br>
 **ID:** CT4PB3997<br>
-**Domain:** Powewr BI<br>
+**Domain:** Power BI<br>
 **Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
