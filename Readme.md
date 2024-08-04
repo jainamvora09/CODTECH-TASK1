@@ -5,6 +5,8 @@
 **Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
+![Sales Dashboard]("C:/Users/Jainam Vora/Downloads/sales_dashboard.png")
+
 ## Project: Sales Performance Dashboard
 
 ## Objective
